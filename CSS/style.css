@@ -1,0 +1,310 @@
+@media screen and (max-width:575px) {
+    .ban-title {
+        position: relative;
+        font-size: 12px;
+        top: 184px;
+
+    }
+}
+
+
+
+@media screen and (max-width:575px) {
+    .ban-text {
+        position: relative;
+        font-size: 9px;
+        top: 184px;
+    }
+
+}
+
+
+@media screen and (max-width:575px) {
+    .legal-text {
+        font-size: 12px;
+    }
+
+}
+
+
+
+.mybtn {
+
+    width: 220px;
+    height: 64px;
+    color: #FFFFFF;
+    border: none;
+    background: #B68C5A;
+    border-radius: 8px;
+}
+
+.mybtn-5 {
+
+    width: 220px;
+    height: 64px;
+    color: #FFFFFF;
+    border: none;
+    background: #B68C5A;
+    border-radius: 8px;
+}
+
+@media screen and (max-width:575px) {
+    .mybtn-5 {
+
+        position: relative;
+        width: 220px;
+        height: 35px;
+        top: 170px;
+        color: #FFFFFF;
+        border: none;
+        background: #B68C5A;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+}
+
+.mybtn-3 {
+    width: 72px;
+    height: 72px;
+    background: #B68C5A;
+    border-radius: 8px;
+    border: none;
+}
+
+
+
+.mybtn-2 {
+    width: 570px;
+    height: 72px;
+    color: #FFFFFF;
+    border: none;
+    background: #B68C5A;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 575px) {
+    .mybtn-2 {
+        width: 334px;
+        height: 72px;
+        color: #FFFFFF;
+        border: none;
+        background: #B68C5A;
+        border-radius: 8px;
+    }
+}
+
+
+.user-img{
+    
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+
+@media screen and (max-width: 575px) {
+.user-img{
+    
+    width: 50px;
+    margin-bottom: 0px;
+}
+}
+
+.carousel-texts{
+    margin-bottom: 190px;
+}
+@media screen and (max-width: 575px) {
+
+    .carousel-texts{
+        font-size: 5px;
+        margin-bottom: 0px;
+    }
+
+}
+
+
+
+
+.searching {
+    width: 324px;
+    height: 72px;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 575px) {
+    .searching {
+        width: 290px;
+        height: 72px;
+        border-radius: 8px;
+    }
+}
+
+button:hover {
+    color: #FFFFFF;
+    background: #845e2f;
+}
+
+
+.parent {
+    position: relative;
+    text-align: center;
+}
+
+.grad-img {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 63px;
+}
+
+@media screen and (max-width: 575px) {
+    .grad-img {
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0px;
+    }
+}
+
+
+
+
+.captions {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: -44.75r;
+    padding-bottom: 9.25rem;
+    em: ;
+    color: #fff;
+    text-align: center;
+}
+
+
+.my-form-controls {
+
+    width: 500px;
+    height: 64px;
+    left: 623px;
+    top: 546px;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+
+
+@media screen and (max-width: 575px) {
+
+    .my-form-controls {
+        position: relative;
+        width: 444px;
+        height: 29px;
+        left: -10px;
+        top: 174px;
+        border: none;
+        background: #FFFFFF;
+        border-radius: 8px;
+    }
+}
+
+
+.my-searching {
+    position: absolute;
+    color: white;
+    top: 20%;
+    left: 20%;
+}
+
+
+
+
+
+
+
+.form-holder {
+    width: 570px;
+    height: 72px;
+    border: none;
+    background: #F3F3F3;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 575px) {
+    .form-holder {
+
+        width: 334px;
+        height: 72px;
+        border: none;
+        background: #F3F3F3;
+        border-radius: 8px;
+    }
+}
+
+.form-holder-msg {
+    width: 570px;
+    height: 162px;
+    border: none;
+    background: #F3F3F3;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 575px) {
+    .form-holder-msg {
+        width: 334px;
+        height: 162px;
+        border: none;
+        background: #F3F3F3;
+        border-radius: 8px;
+    }
+}
+
+.address {
+    width: 285px;
+    height: 285px;
+    background: #F3F3F3;
+}
+
+
+.footer {
+    width: 259px;
+    height: 130px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #CFCFCF;
+    margin-right: 50px;
+    margin-top: 81px;
+}
+
+
+.footer-bg {
+
+    height: 506px;
+    background: #111111;
+}
+
+
+@media screen and (max-width: 575px) {
+    .footer-bg {
+        height: 990px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .footer-sub {
+        margin-top: 100px;
+    }
+}
+
+.footer-search {
+    margin-left: 260px;
+}
+
+@media screen and (max-width: 575px) {
+    .footer-search {
+        margin-left: 227px;
+
+    }
+}
